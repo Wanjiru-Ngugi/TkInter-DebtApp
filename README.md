@@ -1,5 +1,5 @@
 # TkInter-DebtApp
-Created as a fun project for a friend.
+Created as a fun project for a friend. :smile:
 
 ## REQUIREMENTS
 1. Python 3.4 or higher
